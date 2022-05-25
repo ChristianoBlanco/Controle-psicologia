@@ -1,0 +1,33 @@
+body {
+	background: #DCDDDF;
+	color: #000;
+	font: 14px sans-serif;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+}
+h1{ font-size:28px;}
+h2{ font-size:26px;} 
+h3{ font-size:18px;}
+h4{ font-size:16px;}
+h5{ font-size:14px;}
+h6{ font-size:12px;}
+h1,h2,h3,h4,h5,h6{ color:#563D64;}
+
+	
+.container { margin: 25px auto; position: relative; width: 900px; }
+
+
+.dados{
+	display: inline-block;
+    width: 90px;
+}
+
+.combo{
+	display: inline-block;
+    width: 90px;
+ }
+
+textarea {
+  resize: none;
+}
